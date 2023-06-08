@@ -2,4 +2,5 @@
 - 👀 I’m interested in being a professional Web Developer
 - 🌱 Currently learning JavaScript
 - 📚 Finishing High School
+- 🔗 Last project: https://live2you.com.br
 - 📫 How to reach me: guimaggiorini@icloud.com
