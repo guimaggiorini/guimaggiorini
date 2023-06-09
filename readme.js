@@ -1,5 +1,5 @@
-const hi = "👋 Hi, I’m Guilherme"
-const interested = "👀 I’m interested in being a professional Web Developer"
+const hi = "👋 Sup! I’m Guilherme"
+const interested = 💻 I want to be a professional Web Developer"
 const learning = "🌱 Currently learning JavaScript"
 const highschool = "📚 Finishing High School"
 const lastproject = "🔗 Last project: https://live2you.com.br"
