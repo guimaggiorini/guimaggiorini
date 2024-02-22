@@ -2,7 +2,6 @@
 
 - 👋 I’m Guilherme
 - 💻 I want to be a professional Web Developer
-- 🌱 Currently learning JavaScript
 - 📚 System Analisys and Development at FIAP
 - 🔗 Last project: https://live2you.com.br
 - 📫 How to reach me: guimaggiorini@icloud.com
